@@ -1,6 +1,8 @@
 Today karbytes created a backup copy of karbytes' primary website (i.e. Karlina Object dot WordPress dot Com) as the second page displayed on the home page of karbytes' secondary website (i.e. Karbytes For Life Blog dot WordPress dot Com). 
 
-Today karbytes shared a link to that newly added web page named KARLINA_OBJECT_12_JUNE_2023 on its Twitter page, Minds page, Patreon page, and LinkedIn page.
+<span style="background:#00ff00">Note that the GitHub repository which contains the HTML files for the web pages which comprise that newly added web page named KARLINA_OBJECT_12_JUNE_2023 also contains two zip files which contain all of the code files and media files which were part of karbytes' primary website on 12_JUNE_2023.</span>
+
+Today karbytes shared a link to that KARLINA_OBJECT_12_JUNE_2023 on its Twitter page, Minds page, Patreon page, and LinkedIn page.
 
 Today karbytes shared a link to this journal entry web page on its Twitter page, Minds page, Patreon page, and LinkedIn page.
 
