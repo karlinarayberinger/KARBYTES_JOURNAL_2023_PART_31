@@ -1,0 +1,7 @@
+Today karbytes created a backup copy of karbytes' primary website (i.e. Karlina Object dot WordPress dot Com) as the second page displayed on the home page of karbytes' secondary website (i.e. Karbytes For Life Blog dot WordPress dot Com). 
+
+Today karbytes shared a link to that newly added web page named KARLINA_OBJECT_12_JUNE_2023 on its Twitter page, Minds page, Patreon page, and LinkedIn page.
+
+Today karbytes shared a link to this journal entry web page on its Twitter page, Minds page, Patreon page, and LinkedIn page.
+
+<span style="background:#ffff00">Some prospective changes karbytes is planning on implementing in its primary website include (a) changing the link colors inside of code web pages which link to code files back to having a black background and either green or else orange text color, (b) changing the link addresses to match the new GitHub repository where media and code files are stored externally to the WordPress website, (c) removing web pages which karbytes think are insufficiently high quality, and (d) modifying content of web pages which karbytes thinks are sufficiently high quality.</span>
