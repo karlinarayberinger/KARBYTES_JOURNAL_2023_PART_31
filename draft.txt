@@ -1,0 +1,11 @@
+Today I created a new public GitHub repository for storing files which pertain to new web pages which I add to my primary website after I finish adding content to the public GitHub repository which is associated with refactoring that website "from the ground up" starting on 12_JUNE_2023 and ending tentatively no later than 01_AUGUST_2023. 
+
+Notice that, in the screenshot image below, three public GitHub repositories are pinned to my profile.
+
+The pinned repository named KARLINA_OBJECT_12_JUNE_2023 contains all the files which pertain to the version of my primary website which I made a copy of on this website named KARLINA_OBJECT_12_JUNE_2023.
+
+The pinned repository named KARLINA_OBJECT_summer_2023_starter_pack will contain all of the files which pertain to what I consider to be the smallest acceptable version of my primary website. 
+
+The pinned repository named KARLINA_OBJECT_extension_pack_0 will contain a zip file containing all the files in the finalized version of the repository named KARLINA_OBJECT_summer_2023_starter_pack in addition to any files which pertain to web pages which are added to my primary website after KARLINA_OBJECT_summer_2023_starter_pack is finalized.
+
+<span style="background:#ffff00">(When I consider a GitHub repository of mine to be finalized, I set that repository to be archived such that its contents can be viewed and downloaded but no additional commits can be made to that repository (unless I set that archived repository to be unarchived). I use that archiving feature in addition to creating a release of that GitHub repository which includes a compressed file containing all of the files in that particular version of the GitHub repository when I made the release because doing so helps me organize my content and comminicate to myself and others what I am still working on and what I am done working on).</span>
